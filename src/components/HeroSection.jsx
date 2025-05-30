@@ -4,14 +4,14 @@ import video2 from "../assets/video2.mp4"
 const HeroSection = () => {
   return (
     <div className="flex flex-col items-center mt-6 lg:mt-20">
-        <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">Virtual Build tool
+        <h1 className="text-4xl sm:text-6xl lg:text-7xl text-center tracking-wide">Code Reviewing tool
             <span className='bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text'>{" "}
                 for developers</span>
                  </h1>
                  <p className='mt-10 text-lg text-center text-neutral-500 max-w-4xl'>Empower your creativity and bringout your VR app ideas to life with ut intuitive tools.
                      Get started today and turn you imagination into immersive reality</p>
                 <div className="flex justify-center my-10">
-                    <a href="" className='bg-gradient-to-r from-orange-500 to-orange-800 py-3 px-4 mx-3 rounded-md'>
+                    <a href="" className='bg-gradient-to-r from-blue-500 to-blue-800 py-3 px-4 mx-3 rounded-md'>
                         start for free
                     </a>
                     <a href="#" className='py-3 px-4 mx-3 rounded-md border'>Documentation</a>
